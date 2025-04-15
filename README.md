@@ -1,2 +1,2 @@
 # Internship-presentation
-[MY CSS Presentation](my-presentation.pptx)
+[MY CSS Presentation](CSS-Properties-Presentation.pptx)
